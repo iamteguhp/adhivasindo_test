@@ -1,0 +1,116 @@
+
+@media only screen and (min-width: 1300px) {
+    .section-title-azzahra {
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .beli-tiket {
+        margin-top: -30px;
+        width: 60% !important;
+    }
+
+    .beli-tiket-text {
+        font-size: 1rem;
+        margin-top: -30px;
+    }
+
+    .beli-tiket-btn {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .bg-profile-section img {
+        top: 1876px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .section-title-azzahra {
+        text-align: center !important;
+        font-size: 0.9rem !important;
+    }
+    .btn-berita {
+        text-align: center !important;
+        /* margin-left: 32% !important; */
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .section-title-azzahra {
+        font-size: 1.4rem;
+    }
+    .no-item-txt {
+        font-size: 1.3rem;
+    }
+}
+
+@media only screen and (min-width: 472px) {
+
+    .beli-tiket-text {
+        font-size: 1rem;
+        margin-top: -10px;
+    }
+
+    .beli-tiket-btn {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 472px){
+    .section-title-azzahra {
+        font-size: 1rem;
+    }
+    .no-item-txt {
+        font-size: 0.9rem;
+    }
+    .btn-azzahra {
+        font-size: 0.6rem;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+
+    .beli-tiket-btn {
+        font-size: 0.9rem;
+    }
+
+    .section-title-azzahra {
+        font-size: 1rem;
+    }
+
+    .no-item-txt {
+        font-size: 0.9rem;
+    }
+
+    .btn-azzahra {
+        font-size: 0.5rem;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    .beli-tiket-text {
+        font-size: 0.8rem;
+        margin-top: -30px;
+    }
+
+    .beli-tiket-btn {
+        font-size: 0.6rem;
+    }
+
+    .section-title-azzahra {
+        font-size: 0.8rem;
+    }
+
+    .no-item-txt {
+        font-size: 0.7rem;
+    }
+
+    .btn-azzahra {
+        font-size: 0.4rem;
+    }
+}
